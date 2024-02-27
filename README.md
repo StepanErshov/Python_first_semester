@@ -1,2 +1,2 @@
 # python_all_time
-всё, что когда то писал на питоне
+Everything that was once written in Python, until I switched to low-level languages
